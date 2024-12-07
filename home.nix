@@ -42,6 +42,7 @@
     tmux
     cmatrix
     fastfetch
+    keychain
     # zsh-syntax-highlighting
     # zsh-autosuggestions
     # zsh-history-substring-search
